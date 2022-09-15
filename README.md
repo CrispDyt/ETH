@@ -1,5 +1,6 @@
 # Programming Techniques for Scientific Simulations I ([401-2813-00L](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lang=en&lerneinheitId=162932&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&))
 
+
 ### General information
 
 The course will take place in a **hybrid presence / online** format:
@@ -18,6 +19,7 @@ The course will take place in a **hybrid presence / online** format:
                     [here](https://gitlab.ethz.ch/pt1_hs22/online).
                     (See remark above for the login credentials.)
 
+
 ### Summary
 
 This lecture provides an overview of programming techniques for scientific
@@ -27,10 +29,12 @@ libraries.
 Based on an overview over the hardware components of PCs and supercomputers,
 optimization methods for scientific simulation codes are explained.
 
+
 ### Questions
 
 For questions or remarks, we have a slack channel where you can reach us:
 [Join PT1](https://join.slack.com/t/pt1hs21/shared_invite/zt-zge2s2br-9JXJ6grmG7iin1ovCxTVgA).
+
 
 ## Lecture slides, script, exercises and solutions
 
@@ -71,6 +75,7 @@ notification/request for correction all the group members and indicate
 which parts of the solution you would like to have looked at individually
 (although we try to run data comparison tools carefully during the correction,
 we may miss some individual solution of group members).
+
 
 ## Course confirmation (Testat)
 
@@ -124,7 +129,9 @@ course attendance confirmation (Testat) is what you need.
 
 * Don't forget to bring your student card (Legi).
 
+
 ## Useful resources
+
 
 ### Literature
 
@@ -156,6 +163,7 @@ Practical/Advanced C++ programming:
 * [C++ reference](https://en.cppreference.com)
 * [C++ standard](https://isocpp.org/)
 * [C++ core guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+
 
 ### Remote Login to (Fedora)
 
