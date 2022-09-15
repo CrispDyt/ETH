@@ -64,7 +64,7 @@ but not the professor, with their @name in the issue description).
 
 Your exercise will then be corrected before the next exercise session.
 Make sure to give *maintainer* access to the following people:
-@karoger, @engelerp, @ilabarca, @msudwoj and ...
+@engelerp, @ilabarca, @msudwoj and ...
 
 Of course, working in small groups is allowed (and even encouraged using a
 collaborative workflow with `git` and `GitLab`).
