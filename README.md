@@ -33,7 +33,7 @@ optimization methods for scientific simulation codes are explained.
 ### Questions
 
 For questions or remarks, we have a slack channel where you can reach us:
-[Join PT1](https://join.slack.com/t/pt1hs21/shared_invite/zt-zge2s2br-9JXJ6grmG7iin1ovCxTVgA).
+[Join PT1](https://join.slack.com).
 
 
 ## Lecture slides, script, exercises and solutions
@@ -43,13 +43,13 @@ git repository.
 The lecture script is provided as a git [submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules).
 In order to pull that repository you need to initialize it with the following
 command:
-```
-$ git submodule update --init --remote
+```sh
+git submodule update --init --remote
 ```
 
 In order to check and get updates from the script repo, use the following:
-```
-$ git submodule update --remote
+```sh
+git submodule update --remote
 ```
 
 ## Submission
@@ -64,7 +64,7 @@ but not the professor, with their @name in the issue description).
 
 Your exercise will then be corrected before the next exercise session.
 Make sure to give *maintainer* access to the following people:
-@karoger, @engelerp, @ilabarca, @ivanalsina, @msudwoj and @rworreby.
+@karoger, @engelerp, @ilabarca, @msudwoj and ...
 
 Of course, working in small groups is allowed (and even encouraged using a
 collaborative workflow with `git` and `GitLab`).
