@@ -1,0 +1,4 @@
+[submodule "script"]
+	path = script
+	url = git@gitlab.ethz.ch:pt1/script.git
+	branch = script

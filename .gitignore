@@ -1,0 +1,14 @@
+.DS_Store
+*.out
+*~
+*.a
+*.aux
+*.dat
+*.log
+*.o
+*.out
+*.synctex.gz
+*.pyc
+build/
+install/
+*.swp
