@@ -74,13 +74,17 @@ we may miss some individual solution of group members).
 
 ## Course confirmation (Testat)
 
-For students needing the confirmation (Testat) for this course, we require
-that 70% of the exercises have been solved reasonably (sinnvoll).
+For doctoral students needing the course attendance confirmation (Testat) for
+this course, we require that 70% of the exercises have been solved reasonably
+(sinnvoll).
 The submission deadline is every Wednesday midnight (Zurich time!).
 
-Please announce that you want the confirmation (Testat) for this course
-explicitly at the beginning of the semester. Contact Roger Kaeppeli either in
-person or by [email](mailto:roger.kaeppeli@sam.math.ethz.ch).
+Please announce that you want the course attendance confirmation (Testat) for
+this course explicitly at the beginning of the semester by contacting Roger
+Kaeppeli by [email](mailto:roger.kaeppeli@sam.math.ethz.ch).
+Beforehand, please check with your department's study administration if the
+course attendance confirmation (Testat) is what you need.
+
 
 ## Exam information
 
