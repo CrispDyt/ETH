@@ -60,11 +60,11 @@ out the exercise sheet.
 Then send a notification / request for correction (possibly with specific
 questions) to the respective series' slack channel.
 Advanced users may use `GitLab` issues (make sure to tag all the assistants,
-but not the professor, with their @name in the issue description).
+but not the lecturer, with their @name in the issue description).
 
 Your exercise will then be corrected before the next exercise session.
 Make sure to give *maintainer* access to the following people:
-@engelerp, @ilabarca, @msudwoj and ...
+@karoger, @engelerp, @ilabarca, @groetzbc, @msudwoj and @kszenes.
 
 Of course, working in small groups is allowed (and even encouraged using a
 collaborative workflow with `git` and `GitLab`).
