@@ -33,7 +33,7 @@ optimization methods for scientific simulation codes are explained.
 ### Questions
 
 For questions or remarks, we have a slack channel where you can reach us:
-[Join PT1](https://join.slack.com).
+[Join PT1](https://join.slack.com/t/pt1hs22/shared_invite/zt-1gpus91io-7C0q9cYLDzUQf6Nrquum5A).
 
 
 ## Lecture slides, script, exercises and solutions
