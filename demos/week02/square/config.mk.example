@@ -2,4 +2,3 @@ CXX       = c++
 CXXFLAGS  = -std=c++11
 CXXFLAGS += -Wall -Wextra -Wpedantic
 CXXFLAGS += -O3
-

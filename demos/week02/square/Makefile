@@ -15,4 +15,3 @@ square: main.o square.o
 .PHONY: clean
 clean:
 	${RM} -v *.o square
-

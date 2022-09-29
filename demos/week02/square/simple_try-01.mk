@@ -6,4 +6,3 @@ main.o: main.cpp square.hpp
 
 square: main.o square.o
 	c++ -o square main.o square.o
-

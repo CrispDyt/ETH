@@ -16,4 +16,3 @@ shared_osx: square.cpp
 .PHONY: clean
 clean:
 	${RM} -v *.{o,a,so,dylib}
-
